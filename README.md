@@ -13,4 +13,4 @@ The schematic drawings were done by hand as it would have been very challenging 
 
 
 # CPU and Computer Model
-![storage schematic](https://github.com/user-attachments/assets/caec8db2-3fd1-41b4-8c64-b2ffb1e20428)
+![CPU schematic](https://github.com/user-attachments/assets/4af2f353-5179-4400-8968-06a59f276c93)
