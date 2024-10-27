@@ -10,7 +10,3 @@ The schematic drawings were done by hand as it would have been very challenging 
 
 # Memory
 ![storage schematic](https://github.com/user-attachments/assets/f32df5f1-3f31-4475-a87a-a1fda6e5d568)
-
-
-# CPU and Computer Model
-![CPU schematic](https://github.com/user-attachments/assets/4af2f353-5179-4400-8968-06a59f276c93)
